@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/muslim1.png",
+    "nama": "Baju Muslim Code 1",
+    "harga": "105.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/muslim2.png",
+    "nama": "Baju Muslim Code 2",
+    "harga": "230.000",
+    "ukuran": "L",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/muslim3.png",
+    "nama": "Baju Muslim Code 3",
+    "harga": "100.000",
+    "ukuran": "M",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/muslim4.png",
+    "nama": "Baju Muslim Code 4",
+    "harga": "175.000",
+    "ukuran": "S",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/muslim5.png",
+    "nama": "Baju Muslim COde 5",
+    "harga": "200.000",
+    "ukuran": "XS",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "product-images/muslim6.png",
+    "nama": "Baju Muslim Code 7",
+    "harga": "199.000",
+    "ukuran": "OVER SIZE",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  }
+]
